@@ -1,0 +1,12 @@
+name 'event_log_ohai'
+maintainer 'Steve Brown'
+maintainer_email 'sbrown@chef.io'
+license 'Apache-2.0'
+description 'Finds dependent services'
+long_description 'Finds dependent services'
+version '0.1.0'
+chef_version '>= 16.0'
+supports 'windows'
+
+issues_url 'https://github.com/srb3/event_log_ohai/issues'
+source_url 'https://github.com/srb3/event_log_ohai'
